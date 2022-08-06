@@ -1,4 +1,4 @@
-- Hi, I’m Hoyeon Chang.
+- Hello, I’m Hoyeon Chang.
 - I am a first year M.S. student in Language & Knowledge Lab at KAIST Graduate school of AI
 - I am fortunate to be advised by Minjoon Seo.
 - Prior to KAIST, I obtained B.S. in Electrical & Computer Engineering, and Biological Sciences at Seoul National University.
